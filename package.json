@@ -1,0 +1,20 @@
+{
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "fs json",
+  "main": "filestr.js",
+  "scripts": {
+    "test": "default",
+    "start": "node filestr.js"
+  },
+  "keywords": [
+    "json",
+    "manipulation"
+  ],
+  "author": "aldi",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.15"
+  }
+}
